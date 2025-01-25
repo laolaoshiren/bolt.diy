@@ -1,4 +1,9 @@
 # bolt.diy (Previously oTToDev)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=laolaoshiren.bolt.diy)
+![GitHub stars](https://img.shields.io/github/stars/laolaoshiren/bolt.diy?style=social)
+![GitHub forks](https://img.shields.io/github/forks/laolaoshiren/bolt.diy?style=social)
+![GitHub issues](https://img.shields.io/github/issues/laolaoshiren/bolt.diy)
+![GitHub license](https://img.shields.io/github/license/laolaoshiren/bolt.diy)
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
 
